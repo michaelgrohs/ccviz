@@ -5,8 +5,7 @@ This repository contains the implementation of the CC Viz tool, submitted to the
 
 
 ### Built with
-* ![platform](https://img.shields.io/badge/platform-linux-brightgreen)
-* ![GPU](https://img.shields.io/badge/GPU-%20Nvidia%20A10G-red)
+* ![platform](https://img.shields.io/badge/MacOS--9cf?logo=Apple&style=social)
 * ![python](https://img.shields.io/badge/python-black?logo=python&label=3.8.6)
 
 ## User Guide: Running the tool
